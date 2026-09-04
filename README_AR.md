@@ -207,3 +207,9 @@ gesture-recognition/
 ⭐ إذا أعجبك المشروع، لا تنسَ دعم المستودع بوضع Star!
 
 **GitHub:** `https://github.com/awabwdbashry-sketch/gesture-recognition`
+## 👨‍💻 Developer
+
+**Awab Bashary | AwabBuilds**
+
+GitHub: **awabwdbashry-sketch**
+
